@@ -2,9 +2,9 @@
 Tags: translitera, cyrillic, latin, l10n, russian, rustolat, slugs, translations, transliteration, media, georgian, european, diacritics, ukrainian
 Contributors: webcraftic, creativemotion, alexkovalevv
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VDX7JNTQPNPFW
-Requires at least: 4.2
-Tested up to: 5.6
-Requires PHP: 5.4
+Requires at least: 5.2
+Tested up to: 5.8
+Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2
 
@@ -89,6 +89,10 @@ There is a "Rollback changes" button in the plugin settings. This option works o
 2. Simple for filenames
 
 == Changelog ==
+= 1.1.3 (20.10.2021) =
+* Added: Compatibility with Wordpress 5.8
+* Fixed: Minor bugs
+
 = 1.1.2 (15.12.2020) =
 * Added: Subscribe form
 * Fixed: Minor bugs

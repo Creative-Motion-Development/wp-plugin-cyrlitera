@@ -89,6 +89,9 @@ There is a "Rollback changes" button in the plugin settings. This option works o
 2. Simple for filenames
 
 == Changelog ==
+= 1.1.5 (24.03.2022) =
+* Added: Compatibility with Disable admin notices plugin
+
 = 1.1.4 (23.03.2022) =
 * Added: Compatibility with Wordpress 5.9
 * Fixed: Minor bugs

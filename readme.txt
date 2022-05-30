@@ -3,7 +3,7 @@ Tags: translitera, cyrillic, latin, l10n, russian, rustolat, slugs, translations
 Contributors: webcraftic, creativemotion, alexkovalevv
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VDX7JNTQPNPFW
 Requires at least: 5.2
-Tested up to: 5.9
+Tested up to: 6.0
 Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2
@@ -89,6 +89,9 @@ There is a "Rollback changes" button in the plugin settings. This option works o
 2. Simple for filenames
 
 == Changelog ==
+= 1.1.6 (30.05.2022) =
+* Added: Compatibility with Wordpress 6.0
+
 = 1.1.5 (24.03.2022) =
 * Added: Compatibility with Disable admin notices plugin
 

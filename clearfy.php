@@ -31,7 +31,7 @@ if ( ! defined( 'WCTR_PLUGIN_ACTIVE' ) ) {
 	}
 
 	if ( ! defined( 'WCTR_PLUGIN_URL' ) ) {
-		define( 'WCTR_PLUGIN_URL', plugins_url( null, __FILE__ ) );
+		define( 'WCTR_PLUGIN_URL', plugins_url( '', __FILE__ ) );
 	}
 
 	try {

@@ -3,7 +3,7 @@ Tags: translitera, cyrillic, latin, l10n, russian, rustolat, slugs, translations
 Contributors: webcraftic, creativemotion, alexkovalevv
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VDX7JNTQPNPFW
 Requires at least: 5.2
-Tested up to: 6.2
+Tested up to: 6.4
 Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2
@@ -89,6 +89,10 @@ There is a "Rollback changes" button in the plugin settings. This option works o
 2. Simple for filenames
 
 == Changelog ==
+= 1.1.7 (21.11.2023) =
+* Added: Compatibility with Wordpress 6.4
+* Added: Compatibility with php 8.2
+
 = 1.1.7 (22.03.2023) =
 * Fixed: Freemius framework conflict
 * Added: Compatibility with Wordpress 6.2
